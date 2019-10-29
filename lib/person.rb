@@ -6,6 +6,6 @@ class Person
   
   def walk
     walk = puts "The Person is walking"
-  
+  end
   
 end
